@@ -3,11 +3,12 @@
     "name": "Maximilian Berkmann",
     "email": "maxieberkmann@gmail.com",
     "blog": "https://berkmann18.github.io",
-    "company": "",
+    "company": "My own",
     "location": "England, UK",
     "hireable": false,
     "bio": "I'm a CompSci passionate who loves coding, helping people and mental challenges."
   },
+  "twitter_username": "berkmann18",
   "pinned": [
     "https://github.com/Berkmann18/Berkmann18.github.io",
     "https://github.com/Berkmann18/json-fixer",
