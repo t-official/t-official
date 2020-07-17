@@ -11,6 +11,8 @@ You can find me on:
   <a href="https://www.linkedin.com/in/mberkmann"><img src="assets/linkedin.svg" width="24px" alt="Linkedin"></a>
   <a href="https://hashnode.com/@berkmann18"><img src="assets/hashnode.svg" width="24px" alt="Hashnode"></a>
   <a href="https://profile.codersrank.io/user/berkmann18/"><img src="assets/codersrank.svg" width="24px" alt="CodersRank"></a>
+  <a href="https://www.youtube.com/channel/UCrNauxRnXHOa-VZWwXSJMfA?view_as=subscriber"><img src="assets/youtube.svg" width="24px" alt="YouTube"></a>
+  <a href="https://medium.com/@B.Max"><img src="assets/medium.svg" width="24px" alt="Medium"></a>
 </p>
 <p>and many more like <img src="assets/devrant.svg" width="24px" alt="DevRant"> and <img src="assets/discord.svg" width="24px" alt="Discord">.</p>
 
