@@ -52,7 +52,7 @@ You can find me on:
 
 ### Others
 - <img src="assets/python.svg" width="24px" alt="Python"> <img src="assets/gnubash.svg" width="24px" alt="Bash">
-- 
+- <img src="assets/markdown.svg" width="24px" alt="Markdown">
 
 ### Tools
 - <img src="assets/visualstudiocode.svg" width="24px" alt="VSCode"> <img src="assets/vim.svg" width="24px" alt="Vim">
