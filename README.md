@@ -38,6 +38,7 @@ You can find me on:
     Capacitor, <img src="assets/nativescript.svg" width="24px" alt="NativeScript">, 
     <img src="assets/fastify.svg" width="24px" alt="Fastify">
     <img src="assets/kubernetes.svg" width="24px" alt="K8s">
+    <img src="assets/rust.svg" width="24px" alt="Rust">
   </li>
   <li>
     💬 Ask me about anything, I'd love to help.
@@ -57,7 +58,7 @@ You can find me on:
 - <img src="assets/markdown.svg" width="24px" alt="Markdown">
 
 ### Tools
-- <img src="assets/netlify.svg" width="24px" alt="Netlify">
+- <img src="assets/netlify.svg" width="24px" alt="Netlify"> <img src="assets/heroku.svg" width="24px" alt="Heroku">
 - <img src="assets/visualstudiocode.svg" width="24px" alt="VSCode"> <img src="assets/vim.svg" width="24px" alt="Vim">
 - <img src="assets/github.svg" width="24px" alt="GitHub"> <img src="assets/googledrive.svg" width="24px" alt="Google Drive">
 - <img src="assets/git.svg" width="24px" alt="Git"> <img src="assets/gitkraken.svg" width="24px" alt="GitKraken">
