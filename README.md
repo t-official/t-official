@@ -34,8 +34,10 @@ You can find me on:
     <a href="https://github.com/neutralinojs/neutralinojs">Neutralinojs</a>, 
     Juce, 
     <img src="assets/go.svg" width="24px" alt="Go">, 
+    <img src="assets/deno.svg" width="24px" alt="Deno">, 
     Capacitor, <img src="assets/nativescript.svg" width="24px" alt="NativeScript">, 
     <img src="assets/fastify.svg" width="24px" alt="Fastify">
+    <img src="assets/kubernetes.svg" width="24px" alt="K8s">
   </li>
   <li>
     💬 Ask me about anything, I'd love to help.
@@ -55,6 +57,7 @@ You can find me on:
 - <img src="assets/markdown.svg" width="24px" alt="Markdown">
 
 ### Tools
+- <img src="assets/netlify.svg" width="24px" alt="Netlify">
 - <img src="assets/visualstudiocode.svg" width="24px" alt="VSCode"> <img src="assets/vim.svg" width="24px" alt="Vim">
 - <img src="assets/github.svg" width="24px" alt="GitHub"> <img src="assets/googledrive.svg" width="24px" alt="Google Drive">
 - <img src="assets/git.svg" width="24px" alt="Git"> <img src="assets/gitkraken.svg" width="24px" alt="GitKraken">
