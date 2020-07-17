@@ -53,6 +53,7 @@ You can find me on:
 ### Backend
 - <img src="assets/node-dot-js.svg" width="24px" alt="Node.js"> (+ Express)
 
+
 ### Others
 - <img src="assets/python.svg" width="24px" alt="Python"> <img src="assets/gnubash.svg" width="24px" alt="Bash">
 - <img src="assets/markdown.svg" width="24px" alt="Markdown">
@@ -65,6 +66,7 @@ You can find me on:
 - <img src="assets/slack.svg" width="24px" alt="Slack">
 - <img src="assets/trello.svg" width="24px" alt="Trello">
 - <img src="assets/npm.svg" width="24px" alt="NPM">
+- <img src="assets/gimp.svg" width="24px" alt="GIMP">
 ### OS
 <img src="assets/archlinux.svg" width="24px" alt="ArchLinux">
 
