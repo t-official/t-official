@@ -33,11 +33,11 @@ You can find me on:
   <li>
     🌱 I plan on learning:<br>
     <img src="assets/angular.svg" width="24px" alt="Angular">, 
-    <a href="https://github.com/neutralinojs/neutralinojs">Neutralinojs</a>, 
-    Juce, 
+    <a href="https://github.com/neutralinojs/neutralinojs"><img src="assets/neutralinojs.svg" width="24px" alt="Neutralino"></a>, 
+    <img src="assets/juce.svg" width="24px" alt="Juce">, 
     <img src="assets/go.svg" width="24px" alt="Go">, 
     <img src="assets/deno.svg" width="24px" alt="Deno">, 
-    Capacitor, <img src="assets/nativescript.svg" width="24px" alt="NativeScript">, 
+    <img src="assets/capacitor.svg" width="24px" alt="Capacitor">, <img src="assets/nativescript.svg" width="24px" alt="NativeScript">, 
     <img src="assets/fastify.svg" width="24px" alt="Fastify">
     <img src="assets/kubernetes.svg" width="24px" alt="K8s">
     <img src="assets/rust.svg" width="24px" alt="Rust">
@@ -49,11 +49,11 @@ You can find me on:
 
 ### Typical tech stacks
 #### Frontend
-- Gridsome <img src="assets/vue-dot-js.svg" width="24px" alt="Vue.js"> <img src="assets/vuetify.svg" width="24px" alt="Vuetify"> <img src="assets/sass.svg" width="24px" alt="SCSS">
+- <img src="assets/gridsome.svg" width="24px" alt="Gridsome"> <img src="assets/vue-dot-js.svg" width="24px" alt="Vue.js"> <img src="assets/vuetify.svg" width="24px" alt="Vuetify"> <img src="assets/sass.svg" width="24px" alt="SCSS">
 - <img src="assets/html5.svg" width="24px" alt="HTML5"> <img src="assets/css3.svg" width="24px" alt="CSS3"> <img src="assets/javascript.svg" width="24px" alt="JS">
 
 ### Backend
-- <img src="assets/node-dot-js.svg" width="24px" alt="Node.js"> (+ Express)
+- <img src="assets/node-dot-js.svg" width="24px" alt="Node.js"> <img src="assets/express.svg" width="24px" alt="Express.js">
 
 
 ### Others
