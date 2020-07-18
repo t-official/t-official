@@ -32,12 +32,12 @@ You can find me on:
 
   <li>
     🌱 I plan on learning:<br>
-    <img src="assets/angular.svg" width="24px" alt="Angular">, 
-    <a href="https://github.com/neutralinojs/neutralinojs"><img src="assets/neutralinojs.svg" width="24px" alt="Neutralino"></a>, 
-    <img src="assets/juce.svg" width="24px" alt="Juce">, 
-    <img src="assets/go.svg" width="24px" alt="Go">, 
-    <img src="assets/deno.svg" width="24px" alt="Deno">, 
-    <img src="assets/capacitor.svg" width="24px" alt="Capacitor">, <img src="assets/nativescript.svg" width="24px" alt="NativeScript">, 
+    <img src="assets/angular.svg" width="24px" alt="Angular">
+    <a href="https://github.com/neutralinojs/neutralinojs"><img src="assets/neutralinojs.svg" width="24px" alt="Neutralino"></a>
+    <img src="assets/juce.svg" width="24px" alt="Juce">
+    <img src="assets/go.svg" width="24px" alt="Go">
+    <img src="assets/deno.svg" width="24px" alt="Deno">
+    <img src="assets/capacitor.svg" width="24px" alt="Capacitor"><img src="assets/nativescript.svg" width="24px" alt="NativeScript">
     <img src="assets/fastify.svg" width="24px" alt="Fastify">
     <img src="assets/kubernetes.svg" width="24px" alt="K8s">
     <img src="assets/rust.svg" width="24px" alt="Rust">
