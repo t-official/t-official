@@ -50,7 +50,7 @@ You can find me on:
 ### Typical tech stacks
 #### Frontend
 - <img src="assets/gridsome.svg" width="24px" alt="Gridsome"> <img src="assets/vue-dot-js.svg" width="24px" alt="Vue.js"> <img src="assets/vuetify.svg" width="24px" alt="Vuetify"> <img src="assets/sass.svg" width="24px" alt="SCSS">
-- <img src="assets/html5.svg" width="24px" alt="HTML5"> <img src="assets/css3.svg" width="24px" alt="CSS3"> <img src="assets/javascript.svg" width="24px" alt="JS">
+- <img src="assets/html5.svg" width="24px" alt="HTML5"> <img src="assets/css3.svg" width="24px" alt="CSS3"> <img src="assets/javascript.svg" width="24px" alt="JS"> <img src="assets/typescript.svg" width="24px" alt="TS">
 
 ### Backend
 - <img src="assets/node-dot-js.svg" width="24px" alt="Node.js"> <img src="assets/express.svg" width="24px" alt="Express.js">
