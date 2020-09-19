@@ -54,10 +54,10 @@ You can find me on:
     💬 Ask me about anything, I'd love to help.
     <!-- Especially Vue.js, Gridsome, speedcubing, application type decision -->
   </li>
-  <li>
+  <!-- <li>
     📝 I often write articles on <a href="https://medium.com/@B.Max">https://medium.com/@B.Max</a>
-  </li>
-  <li>⚡ Fun fact <strong>I have more hobby experience over commercial experience</strong></li>
+  </li> -->
+  <li>⚡ Fun fact: <strong>I have more hobby experience over commercial experience</strong></li>
 </ul>
 <!-- - 🔭 I'm currently working on [MBerkmann](https://github.com/Berkmann18/mberkmann) -->
 
