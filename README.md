@@ -25,33 +25,31 @@ You can find me on:
     <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/jirasoftware.svg" width="24px" alt="Jira Software">
     <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/confluence.svg" width="24px" alt="Confluence">
     <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/ionic.svg" width="24px" alt="Ionic">
-
-  </li>
-  <li>
-    🌱 I'm currently learning:<br>
+    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/aws.svg" width="24px" alt="AWS">
     <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/angular.svg" width="24px" alt="Angular">
     <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/dot-net.svg" width="24px" alt=".NET Core">
     <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/gitlab.svg" width="24px" alt="GitLab">
-    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/aws.svg" width="24px" alt="AWS">
-    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/terraform.svg" width="24px" alt="Terraform">
     <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/fastify.svg" width="24px" alt="Fastify">
     <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/capacitor.svg" width="24px" alt="Capacitor">
-    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/ansible.svg" width="24px" alt="Ansible">
+  </li>
+  <li>
+    🌱 I'm currently learning:<br>
+    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/terraform.svg" width="24px" alt="Terraform">
     <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/flutter.svg" width="24px" alt="Flutter">
     <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/clickup.svg" width="24px" alt="ClickUp">
     <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/xero.svg" width="24px" alt="Xero">
+    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/docker.svg" width="24px" alt="Docker">
+    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/kubernetes.svg" width="24px" alt="K8s">
   </li>
-
   <li>
     🌱 I plan on learning:<br>
-    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/docker.svg" width="24px" alt="Docker">
+    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/ansible.svg" width="24px" alt="Ansible">
     <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/rust.svg" width="24px" alt="Rust">
     <a href="https://github.com/neutralinojs/neutralinojs"><img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/neutralinojs.svg" width="24px" alt="Neutralino"></a>
     <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/juce.svg" width="24px" alt="Juce">
     <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/go.svg" width="24px" alt="Go">
     <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/deno.svg" width="24px" alt="Deno">
     <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/nativescript.svg" width="24px" alt="NativeScript">
-    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/kubernetes.svg" width="24px" alt="K8s">
   </li>
   <li>
     👯 I'm looking to collaborate on <a href="https://github.com/Berkmann18/Compriz">Compriz</a>
