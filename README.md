@@ -98,6 +98,6 @@ You can find me on:
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Berkmann18&show_icons=true&hide_border=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Berkmann18)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- <script src="https://profile.codersrank.io/widget/widget.js"></script>
-<codersrank-widget username="berkmann18"></codersrank-widget> -->
+![Maximilian's github stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Berkmann18&width=820&tooltip=true&active-skills="HTML,%20CSS,%20JSON,%20JavaScript,%20Python,%20SCSS,%20Shell,%20TypeScript,%20Vue,%20Jupyter%20Notebook,%20Dockerfile,%20Batchfile,%20C#,%20Java,Dart")
+<!-- https://docs.codersrank.io/widgets/skills-chart-widget/ -->
+![Maximilian's CR ranks](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Berkmann18&show-avatar=false)
