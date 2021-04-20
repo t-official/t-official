@@ -31,10 +31,10 @@ You can find me on:
     <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/gitlab.svg" width="24px" alt="GitLab">
     <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/fastify.svg" width="24px" alt="Fastify">
     <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/capacitor.svg" width="24px" alt="Capacitor">
+    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/terraform.svg" width="24px" alt="Terraform">
   </li>
   <li>
     🌱 I'm currently learning:<br>
-    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/terraform.svg" width="24px" alt="Terraform">
     <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/flutter.svg" width="24px" alt="Flutter">
     <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/clickup.svg" width="24px" alt="ClickUp">
     <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/xero.svg" width="24px" alt="Xero">
@@ -50,16 +50,17 @@ You can find me on:
     <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/go.svg" width="24px" alt="Go">
     <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/deno.svg" width="24px" alt="Deno">
     <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/nativescript.svg" width="24px" alt="NativeScript">
+    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/prometheus.svg" width="24px" alt="Prometheus">
   </li>
   <li>
     👯 I'm looking to collaborate on <a href="https://github.com/Berkmann18/Compriz">Compriz</a>
   </li>
   <li>
-    🤝 I'm looking for help with <a href="https://github.com/Berkmann18/price-calc">PriceCalc</a>
+    🤝 I'm looking for help with <a href="https://github.com/all-contributors/ac-learn">`ac-learn`</a> and <a href="https://github.com/Berkmann18/json-fixer">`json-fixer`</a>.
   </li>
   <li>
     💬 Ask me about anything, I'd love to help.
-    <!-- Especially Vue.js, Gridsome, speedcubing, application type decision -->
+    <!-- Especially Vue.js, Software Architecture, Gridsome, Speedcubing, application type decision -->
   </li>
   <!-- <li>
     📝 I often write articles on <a href="https://medium.com/@B.Max">https://medium.com/@B.Max</a>
