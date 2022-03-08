@@ -21,15 +21,13 @@ You can find me on:
   </li>
   <li>
     🌱 I'm currently learning:<br>
-    
-    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/docker.svg" width="24px" alt="Docker">
-    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/solidity.svg" width="24px" alt="solidity">
-    
+    <img src="https://github.com/t-official/t-official/blob/master/assets/solidity.svg" width="24px" height ="24px" alt="Solidity">
   </li>
   <li>
     🌱 I plan on learning:<br>
-    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/react-native.svg" width="24px" alt="React-Native">
+    <img src="https://github.com/t-official/t-official/blob/master/assets/react-native.svg" width="24px" alt="React-Native">
     <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/rust.svg" width="24px" alt="Rust">
+    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/docker.svg" width="24px" alt="Docker">
     <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/go.svg" width="24px" alt="Go">
     
   </li>
@@ -44,29 +42,39 @@ You can find me on:
     📝 I often write articles on <a href="https://hashnode.com/@kenny82">https://hashnode.com/@kenny82</a>
   </li>
 </ul>
+
 ### Typical tech stacks
+
 #### Frontend
+
 - <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/gridsome.svg" width="24px" alt="Gridsome"><img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/vuetify.svg" width="24px" alt="Vuetify"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/sass.svg" width="24px" alt="SCSS">
+
 - <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/html5.svg" width="24px" alt="HTML5"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/css3.svg" width="24px" alt="CSS3"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/javascript.svg" width="24px" alt="JS"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/typescript.svg" width="24px" alt="TS">
 
 ### Backend
+
 - <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/node-dot-js.svg" width="24px" alt="Node.js"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/express.svg" width="24px" alt="Express.js">
 
 
 ### Others
-- <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/python.svg" width="24px" alt="Python"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/gnubash.svg" width="24px" alt="Bash">
+- <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/python.svg" width="24px" alt="Python"> <img src="https://github.com/t-official/t-official/blob/master/assets/solidity.svg" width="24px" height ="24px" alt="Solidity">
 
 ### Tools
-- <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/netlify.svg" width="24px" alt="Netlify"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/heroku.svg" width="24px" alt="Heroku">
-- <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/visualstudiocode.svg" width="24px" alt="VSCode"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/vim.svg" width="24px" alt="Vim">
-- <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/github.svg" width="24px" alt="GitHub"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/googledrive.svg" width="24px" alt="Google Drive">
-- <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/git.svg" width="24px" alt="Git"> 
-- <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/slack.svg" width="24px" alt="Slack">
-- <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/trello.svg" width="24px" alt="Trello">
-- <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/npm.svg" width="24px" alt="NPM">
 
-### OS
-<img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/archlinux.svg" width="24px" alt="ArchLinux">
+- <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/netlify.svg" width="24px" alt="Netlify">
+<img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/heroku.svg" width="24px" alt="Heroku">
+
+- <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/visualstudiocode.svg" width="24px" alt="VSCode">
+
+- <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/github.svg" width="24px" alt="GitHub"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/googledrive.svg" width="24px" alt="Google Drive">
+
+- <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/git.svg" width="24px" alt="Git"> 
+
+- <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/slack.svg" width="24px" alt="Slack">
+
+- <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/trello.svg" width="24px" alt="Trello">
+
+- <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/npm.svg" width="24px" alt="NPM">
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=t-official&show_icons=true&hide_border=true&theme=tokyonight)
 
