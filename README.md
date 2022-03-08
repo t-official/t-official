@@ -23,39 +23,30 @@ You can find me on:
     🌱 I'm currently learning:<br>
     
     <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/docker.svg" width="24px" alt="Docker">
+    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/solidity.svg" width="24px" alt="solidity">
     
   </li>
   <li>
     🌱 I plan on learning:<br>
-    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/ansible.svg" width="24px" alt="Ansible">
+    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/react-native.svg" width="24px" alt="React-Native">
     <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/rust.svg" width="24px" alt="Rust">
-    <a href="https://github.com/neutralinojs/neutralinojs"><img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/neutralinojs.svg" width="24px" alt="Neutralino"></a>
-    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/juce.svg" width="24px" alt="Juce">
     <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/go.svg" width="24px" alt="Go">
-    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/deno.svg" width="24px" alt="Deno">
-    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/nativescript.svg" width="24px" alt="NativeScript">
-    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/prometheus.svg" width="24px" alt="Prometheus">
+    
   </li>
   <li>
-    👯 I'm looking to collaborate on <a href="https://github.com/Berkmann18/Compriz">Compriz</a>
-  </li>
-  <li>
-    🤝 I'm looking for help with <a href="https://github.com/all-contributors/ac-learn">`ac-learn`</a> and <a href="https://github.com/Berkmann18/json-fixer">`json-fixer`</a>.
+    👯 I'm looking to collaborate on <a href="https://github.com/Berkmann18/solidity.svg">Solidity</a>
   </li>
   <li>
     💬 Ask me about anything, I'd love to help.
-    <!-- Especially Vue.js, Software Architecture, Gridsome, Speedcubing, application type decision -->
+    
   </li>
-  <!-- <li>
-    📝 I often write articles on <a href="https://medium.com/@B.Max">https://medium.com/@B.Max</a>
-  </li> -->
-  <li>⚡ Fun fact: <strong>I have more hobby experience over commercial experience</strong></li>
+  <li>
+    📝 I often write articles on <a href="https://hashnode.com/@kenny82">https://hashnode.com/@kenny82</a>
+  </li>
 </ul>
-<!-- - 🔭 I'm currently working on [MBerkmann](https://github.com/Berkmann18/mberkmann) -->
-
 ### Typical tech stacks
 #### Frontend
-- <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/gridsome.svg" width="24px" alt="Gridsome"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/vue-dot-js.svg" width="24px" alt="Vue.js"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/vuetify.svg" width="24px" alt="Vuetify"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/sass.svg" width="24px" alt="SCSS">
+- <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/gridsome.svg" width="24px" alt="Gridsome"><img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/vuetify.svg" width="24px" alt="Vuetify"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/sass.svg" width="24px" alt="SCSS">
 - <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/html5.svg" width="24px" alt="HTML5"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/css3.svg" width="24px" alt="CSS3"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/javascript.svg" width="24px" alt="JS"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/typescript.svg" width="24px" alt="TS">
 
 ### Backend
@@ -64,23 +55,19 @@ You can find me on:
 
 ### Others
 - <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/python.svg" width="24px" alt="Python"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/gnubash.svg" width="24px" alt="Bash">
-- <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/markdown.svg" width="24px" alt="Markdown">
 
 ### Tools
 - <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/netlify.svg" width="24px" alt="Netlify"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/heroku.svg" width="24px" alt="Heroku">
 - <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/visualstudiocode.svg" width="24px" alt="VSCode"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/vim.svg" width="24px" alt="Vim">
 - <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/github.svg" width="24px" alt="GitHub"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/googledrive.svg" width="24px" alt="Google Drive">
-- <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/git.svg" width="24px" alt="Git"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/gitkraken.svg" width="24px" alt="GitKraken">
+- <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/git.svg" width="24px" alt="Git"> 
 - <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/slack.svg" width="24px" alt="Slack">
 - <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/trello.svg" width="24px" alt="Trello">
 - <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/npm.svg" width="24px" alt="NPM">
-- <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/gimp.svg" width="24px" alt="GIMP">
+
 ### OS
 <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/archlinux.svg" width="24px" alt="ArchLinux">
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=Berkmann18&show_icons=true&hide_border=true&theme=tokyonight)
+![My github stats](https://github-readme-stats.vercel.app/api?username=t-official&show_icons=true&hide_border=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Berkmann18)](https://github.com/anuraghazra/github-readme-stats)
-![Maximilian's github stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Berkmann18&width=820&tooltip=true&active-skills="HTML,%20CSS,%20JSON,%20JavaScript,%20Python,%20SCSS,%20Shell,%20TypeScript,%20Vue,%20Jupyter%20Notebook,%20Dockerfile,%20Batchfile,%20C#,%20Java,Dart")
-<!-- https://docs.codersrank.io/widgets/skills-chart-widget/ -->
-![Maximilian's CR ranks](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Berkmann18&show-avatar=false)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t-official)](https://github.com/anuraghazra/github-readme-stats)
