@@ -46,7 +46,7 @@ You can find me on:
 
 ### Typical tech stacks
 #### Frontend
-- <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/gridsome.svg" width="24px" alt="Gridsome"><img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/vuetify.svg" width="24px" alt="Vuetify"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/sass.svg" width="24px" alt="SCSS">
+
 - <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/html5.svg" width="24px" alt="HTML5"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/css3.svg" width="24px" alt="CSS3"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/javascript.svg" width="24px" alt="JS"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/typescript.svg" width="24px" alt="TS">
 
 ### Backend
