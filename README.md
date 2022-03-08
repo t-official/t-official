@@ -1,6 +1,6 @@
 # Kehinde Wakeel
 
-Hey there, I'm a Nigerian full time frontend developer and with interests in web/mobile apps and  Blockcain Development.
+Hey there, I'm a Nigerian full time Frontend Developer and with interests in web/mobile apps and  Blockcain Development.
 
 You can find me on:
 <p>
@@ -17,18 +17,17 @@ You can find me on:
   <li>Fluent in 🇬🇧.</li>
   <li>
     👨‍💻 I'm getting my hands dirty with:<br>
-    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/terraform.svg" width="24px" alt="Terraform">
+- <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/html5.svg" width="24px" alt="HTML5"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/css3.svg" width="24px" alt="CSS3"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/javascript.svg" width="24px" alt="JS">
+<img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/react-icon.png" width="24px" alt="ReactJS"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/typescript.svg" width="24px" alt="TS">    
   </li>
   <li>
     🌱 I'm currently learning:<br>
-    
-    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/docker.svg" width="24px" alt="Docker">
     <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/solidity.svg" width="24px" alt="solidity">
-    
+    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/algo.png" width="24px" alt="pyteal">
   </li>
   <li>
     🌱 I plan on learning:<br>
-    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/react-native.svg" width="24px" alt="React-Native">
+    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/react-native.png" width="24px" alt="React-Native">
     <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/rust.svg" width="24px" alt="Rust">
     <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/go.svg" width="24px" alt="Go">
     
@@ -44,6 +43,7 @@ You can find me on:
     📝 I often write articles on <a href="https://hashnode.com/@kenny82">https://hashnode.com/@kenny82</a>
   </li>
 </ul>
+
 ### Typical tech stacks
 #### Frontend
 - <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/gridsome.svg" width="24px" alt="Gridsome"><img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/vuetify.svg" width="24px" alt="Vuetify"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/sass.svg" width="24px" alt="SCSS">
@@ -65,9 +65,12 @@ You can find me on:
 - <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/trello.svg" width="24px" alt="Trello">
 - <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/npm.svg" width="24px" alt="NPM">
 
-### OS
-<img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/archlinux.svg" width="24px" alt="ArchLinux">
-
 ![My github stats](https://github-readme-stats.vercel.app/api?username=t-official&show_icons=true&hide_border=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t-official)](https://github.com/anuraghazra/github-readme-stats)
+
+![Maximilian's github stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=t-official)
+
+
+![Maximilian's CR ranks](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=t-official&show-avatar=false)
+
