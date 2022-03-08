@@ -18,22 +18,22 @@ You can find me on:
   <li>
     👨‍💻 I'm getting my hands dirty with:<br>
 - <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/html5.svg" width="24px" alt="HTML5"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/css3.svg" width="24px" alt="CSS3"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/javascript.svg" width="24px" alt="JS">
-<img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/react-icon.png" width="24px" alt="ReactJS"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/typescript.svg" width="24px" alt="TS">    
+<img src="https://github.com/t-official/t-official/blob/master/assets/react-icon.png" width="24px" alt="ReactJS"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/typescript.svg" width="24px" alt="TS">    
   </li>
   <li>
     🌱 I'm currently learning:<br>
-    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/solidity.svg" width="24px" alt="solidity">
-    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/algo.png" width="24px" alt="pyteal">
+    <img src="https://github.com/t-official/t-official/blob/master/assets/solidity.svg" height = "24px" width="24px" alt="solidity">
+    <img src="https://github.com/t-official/t-official/blob/master/assets/algo.png" width="24px" height = "24px" alt="pyteal">
   </li>
   <li>
     🌱 I plan on learning:<br>
-    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/react-native.png" width="24px" alt="React-Native">
+    <img src="https://github.com/t-official/t-official/blob/master/assets/react-native.png" width="24px" alt="React-Native">
     <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/rust.svg" width="24px" alt="Rust">
     <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/go.svg" width="24px" alt="Go">
     
   </li>
   <li>
-    👯 I'm looking to collaborate on <a href="https://github.com/Berkmann18/solidity.svg">Solidity</a>
+    👯 I'm looking to collaborate on <a href="https://github.com/t-official/t-official/blob/master/assets/solidity.svg">Solidity</a>
   </li>
   <li>
     💬 Ask me about anything, I'd love to help.
