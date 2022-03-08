@@ -1,24 +1,20 @@
-# Maximilian Berkmann
+# Kehinde Wakeel
 
-Hey there, I'm a British MSci+YII CompSci graduate and a freelancer working on web apps, CLI tools and software.
+Hey there, I'm a Nigerian full time frontend developer and with interests in web/mobile apps and  Blockcain Development.
 
 You can find me on:
 <p>
-  <a href="https://twitter.com/Berkmann18"><img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/twitter.svg" width="24px" alt="Twitter"></a>
-  <a href="https://www.facebook.com/maxkberkmann"><img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/facebook.svg" width="24px" alt="Facebook"></a>
-  <a href="https://www.instagram.com/Berkmann18"><img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/instagram.svg" width="24px" alt="Instagram"></a>
-  <a href="https://dev.to/berkmann18"><img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/dev-dot-to.svg" width="24px" alt="DEV.to"></a>
-  <a href="https://www.linkedin.com/in/mberkmann"><img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/linkedin.svg" width="24px" alt="Linkedin"></a>
-  <a href="https://hashnode.com/@berkmann18"><img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/hashnode.svg" width="24px" alt="Hashnode"></a>
-  <a href="https://profile.codersrank.io/user/berkmann18/"><img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/codersrank.svg" width="24px" alt="CodersRank"></a>
-  <a href="https://www.youtube.com/channel/UCrNauxRnXHOa-VZWwXSJMfA?view_as=subscriber"><img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/youtube.svg" width="24px" alt="YouTube"></a>
-  <a href="https://medium.com/@B.Max"><img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/medium.svg" width="24px" alt="Medium"></a>
+  <a href="https://twitter.com/tijjken"><img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/twitter.svg" width="24px" alt="Twitter"></a>
+  <a href="https://web.facebook.com/wakeel.kehinde.7/"><img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/facebook.svg" width="24px" alt="Facebook"></a>
+  <a href="https://www.instagram.com/tijj_ken/"><img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/instagram.svg" width="24px" alt="Instagram"></a>
+  <a href="https://dev.to/tijjken"><img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/dev-dot-to.svg" width="24px" alt="DEV.to"></a>
+  <a href="https://www.linkedin.com/in/tijjken/"><img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/linkedin.svg" width="24px" alt="Linkedin"></a>
+  <a href="https://hashnode.com/@kenny82"><img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/hashnode.svg" width="24px" alt="Hashnode"></a>
 </p>
-<p>and many more like <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/devrant.svg" width="24px" alt="DevRant"> and <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/discord.svg" width="24px" alt="Discord">.</p>
 
 ## A bit more about me
 <ul>
-  <li>Fluent in 🇬🇧 and 🇫🇷.</li>
+  <li>Fluent in 🇬🇧.</li>
   <li>
     👨‍💻 I'm getting my hands dirty with:<br>
     <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/quasar.svg" width="24px" alt="Quasar">
