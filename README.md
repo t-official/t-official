@@ -65,7 +65,7 @@ You can find me on:
 - <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/trello.svg" width="24px" alt="Trello">
 - <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/npm.svg" width="24px" alt="NPM">
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=t-official&show_icons=true&theme=radical&count_private=true)
+![My github stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t-official&show_icons=true&theme=radical&count_private=true)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ubaydah&layout=compact&theme=radical)](https://github.com/t-official/github-readme-stats)
 
