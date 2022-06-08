@@ -1,6 +1,6 @@
 # Kehinde Wakeel
 
-Hey there, I'm a Nigerian full time Frontend Developer and with interests in web/mobile apps and  Blockchain Development.
+Hey there, I'm a Fullsatck Developer and with interests in web/mobile apps and  Blockchain Development.
 
 You can find me on:
 <p>
